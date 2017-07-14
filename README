@@ -1,7 +1,8 @@
- repositories {
-        jcenter()
-        maven { url "https://jitpack.io" }
-   }
-   dependencies {
-         compile 'com.github.jitpack:gradle-simple:1.0'
-   }
+ #INSTALL:
+     repositories {
+            jcenter()
+            maven { url "https://jitpack.io" }
+       }
+       dependencies {
+              compile 'com.github.LionisIAm:Task01:2'
+       }
